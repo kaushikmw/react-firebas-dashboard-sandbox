@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import {} from "semantic-ui-react";
+import "semantic-ui-css/semantic.min.css";
+import 'bootstrap/dist/css/bootstrap.css'; 
 
 ReactDOM.render(
   <React.StrictMode>
